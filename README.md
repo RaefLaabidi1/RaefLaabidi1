@@ -15,13 +15,13 @@
     <td style="border: none; vertical-align: top;">
       - 🔭 I’m currently starting (01 August to 30 September) **NetAcad Summer Camp : AI and Cybersecurity**<br>
       <br>
-      - 🌱 I’m currently learning **Data science and web development**<br>
+      - 🌱 I’m currently learning Data science and web development<br>
       <br>
       - 👨‍💻 All of my projects are available at (currently working on portfolio...)<br>
       <br>
-      - 💬 Ask me about **What you want! I will always be glad to help😊**<br>
+      - 💬 Ask me about What you want! I will always be glad to help😊<br>
       <br>
-      - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/)**
+      - 📫 How to reach me https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/
     </td>
     <td style="border: none;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4ZXp0ajF5bzU5NWY2enF0Yzh0bnVvZHF0c20weGg2cTFpa21oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" alt="">
