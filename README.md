@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data science and web development**
 
-- 👨‍💻 All of my projects are available at [(currently working on portfolio...)]((currently working on portfolio...))
+- 👨‍💻 All of my projects are available at (currently working on portfolio...)
 
 - 💬 Ask me about **What you want!I will always be glad to help😊**
 
