@@ -1,5 +1,6 @@
 <p align="center">
-![ezgif-7-1972d78fbd](https://github.com/user-attachments/assets/23702377-1092-44b6-bde5-321c31506408)
+![ezgif-7-1972d78fbd](https://github.com/user-attachments/assets/f84d570a-e134-44d4-a0ed-6495b47e6bb2)
+
 </p>
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
