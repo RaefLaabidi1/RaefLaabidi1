@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="![mr_robot](https://github.com/user-attachments/assets/140b3860-7b2a-4f71-a816-7e40e6154eec)" />
-</p>
+<div align="center">
+	<img src=![mr_robot](https://github.com/user-attachments/assets/0289dd2e-9601-4512-8f4a-e71d484dfd7a)
+>
+</div>
 
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
