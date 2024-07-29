@@ -8,17 +8,28 @@
  
 
 
-![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/3c282997-77c1-456e-8671-ad599d4035e9)
 
-- 🔭 I’m currently starting (01 August to 30 september) **NetAcad Summer Camp : AI and Cybersecuirty**
 
-- 🌱 I’m currently learning **Data science and web development**
+<table>
+  <tr>
+    <td>
+      - 🔭 I’m currently starting (01 August to 30 September) **NetAcad Summer Camp : AI and Cybersecurity**<br>
+      <br>
+      - 🌱 I’m currently learning **Data science and web development**<br>
+      <br>
+      - 👨‍💻 All of my projects are available at (currently working on portfolio...)<br>
+      <br>
+      - 💬 Ask me about **What you want! I will always be glad to help😊**<br>
+      <br>
+      - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/)**
+    </td>
+    <td>
+  ![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/6a693951-d16c-4930-a9ec-1029daa6d89b)
 
-- 👨‍💻 All of my projects are available at (currently working on portfolio...)
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **What you want!I will always be glad to help😊**
-
-- 📫 How to reach me **https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
