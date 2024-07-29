@@ -24,7 +24,7 @@
       - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/)**
     </td>
     <td>
-  ![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/6a693951-d16c-4930-a9ec-1029daa6d89b)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4ZXp0ajF5bzU5NWY2enF0Yzh0bnVvZHF0c20weGg2cTFpa21oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" alt="">
 
     </td>
   </tr>
