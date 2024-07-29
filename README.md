@@ -1,4 +1,4 @@
-![Uploading ezgif-7-1972d78fbd.gif…]()
+![ezgif-7-1972d78fbd](https://github.com/user-attachments/assets/8274fbb2-3980-4327-b5c9-d67143f4bfb7)
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
 
