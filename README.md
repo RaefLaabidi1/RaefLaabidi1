@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raeflaabidi1&label=Profile%20views&color=0e75b6&style=flat" alt="raeflaabidi1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raeflaabidi1" alt="raeflaabidi1" /></a> </p>
+![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/3c4ed2b0-b5be-47d6-9c93-0d96909f796c)
 
 - 🔭 I’m currently starting (01 August to 30 september) **NetAcad Summer Camp : AI and Cybersecuirty**
 
