@@ -26,7 +26,7 @@
     <td>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4ZXp0ajF5bzU5NWY2enF0Yzh0bnVvZHF0c20weGg2cTFpa21oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" alt="">
 
-    </td>
+  
   </tr>
 </table>
 
