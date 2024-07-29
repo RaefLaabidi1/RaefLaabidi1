@@ -9,19 +9,18 @@
 
 
 
-
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <strong>•</strong> I’m currently starting (01 August to 30 September) <mark>NetAcad Summer Camp : AI and Cybersecurity</mark><br>
+      <strong>•</strong> I’m currently starting (01 August to 30 September) <span style="background-color: #d1c4e9;">NetAcad Summer Camp : AI and Cybersecurity</span><br>
       <br>
-      <strong>•</strong> I’m currently learning <mark>Data science and web development</mark><br>
+      <strong>•</strong> I’m currently learning <span style="background-color: #d1c4e9;">Data science and web development</span><br>
       <br>
       <strong>•</strong> All of my projects are available at (currently working on portfolio...)<br>
       <br>
-      <strong>•</strong> Ask me about <mark>What you want! I will always be glad to help😊</mark><br>
+      <strong>•</strong> Ask me about <span style="background-color: #d1c4e9;">What you want! I will always be glad to help😊</span><br>
       <br>
-      <strong>•</strong> How to reach me <mark>[LinkedIn](https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/)</mark>
+      <strong>•</strong> How to reach me <span style="background-color: #d1c4e9;">https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/</span>
     </td>
     <td style="border: none;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4ZXp0ajF5bzU5NWY2enF0Yzh0bnVvZHF0c20weGg2cTFpa21oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" alt="">
