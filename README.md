@@ -1,7 +1,7 @@
-![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/bc182eb2-039d-4141-b944-58b6eff10fb5)
+                                    ![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/bc182eb2-039d-4141-b944-58b6eff10fb5)
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raeflaabidi1&label=Profile%20views&color=0e75b6&style=flat" alt="raeflaabidi1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raeflaabidi1" alt="raeflaabidi1" /></a> </p>
