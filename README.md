@@ -13,21 +13,22 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      - 🔭 I’m currently starting (01 August to 30 September) NetAcad Summer Camp : AI and Cybersecurity<br>
+      <strong>•</strong> I’m currently starting (01 August to 30 September) <mark>NetAcad Summer Camp : AI and Cybersecurity</mark><br>
       <br>
-      - 🌱 I’m currently learning Data science and web development<br>
+      <strong>•</strong> I’m currently learning <mark>Data science and web development</mark><br>
       <br>
-      - 👨‍💻 All of my projects are available at (currently working on portfolio...)<br>
+      <strong>•</strong> All of my projects are available at (currently working on portfolio...)<br>
       <br>
-      - 💬 Ask me about What you want! I will always be glad to help😊<br>
+      <strong>•</strong> Ask me about <mark>What you want! I will always be glad to help😊</mark><br>
       <br>
-      - 📫 How to reach me https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/
+      <strong>•</strong> How to reach me <mark>[LinkedIn](https://www.linkedin.com/in/raef-laabidi-3bb13a2a7/)</mark>
     </td>
     <td style="border: none;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4ZXp0ajF5bzU5NWY2enF0Yzh0bnVvZHF0c20weGg2cTFpa21oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" alt="">
     </td>
   </tr>
-</table
+</table>
+
 
 
 <h3 align="left">Connect with me:</h3>
