@@ -1,5 +1,4 @@
-
-
+![Uploading ezgif-7-1972d78fbd.gif…]()
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
 
