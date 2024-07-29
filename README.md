@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![mr_robot](https://github.com/user-attachments/assets/140b3860-7b2a-4f71-a816-7e40e6154eec)
-" alt="animated" />
+  <img src="![mr_robot](https://github.com/user-attachments/assets/140b3860-7b2a-4f71-a816-7e40e6154eec)" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
