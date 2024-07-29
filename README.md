@@ -1,5 +1,6 @@
-
-![ezgif-7-1972d78fbd](https://github.com/user-attachments/assets/f84d570a-e134-44d4-a0ed-6495b47e6bb2)
+<p align="center">
+  <img src="mr_robot.gif" alt="animated" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
