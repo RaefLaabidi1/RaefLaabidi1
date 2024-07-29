@@ -1,4 +1,6 @@
-                                    ![ezgif-7-68d200eb2e](https://github.com/user-attachments/assets/bc182eb2-039d-4141-b944-58b6eff10fb5)
+<p align="center">
+![ezgif-7-1972d78fbd](https://github.com/user-attachments/assets/23702377-1092-44b6-bde5-321c31506408)
+</p>
 <h1 align="center">Hi 👋, I'm Raef Laabidi</h1>
 <h3 align="center">A Passionate Computer Science Engineering Student</h3>
  
