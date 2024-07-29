@@ -13,7 +13,7 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      - 🔭 I’m currently starting (01 August to 30 September) **NetAcad Summer Camp : AI and Cybersecurity**<br>
+      - 🔭 I’m currently starting (01 August to 30 September) NetAcad Summer Camp : AI and Cybersecurity<br>
       <br>
       - 🌱 I’m currently learning Data science and web development<br>
       <br>
